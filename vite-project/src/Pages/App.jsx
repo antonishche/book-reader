@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import '../Style/App.css'
 
+import '../Style/App.css'
+import Account from "./Account"
 function App() {
 
   return (
     <>
-      <h1>reader</h1>
+     <Account/>
     </>
   )
 }
